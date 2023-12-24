@@ -1,0 +1,10 @@
+streamlit
+matplotlib.pyplot
+urlextract
+collections
+wordcloud
+pandas
+string
+re
+emoji
+textblob
